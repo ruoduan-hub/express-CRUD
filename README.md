@@ -1,6 +1,6 @@
 # express-CRUD
 - 一个基于express 实现 列表数据crud
-- 模块化异步封装API实现文件数据持久化
+- 模块化异步封装API实现文件储存数据持久化
 ### router-table
 
 | 请求方法 |     请求路径     | get 参数 |           post 参数            |       备注       |
@@ -22,3 +22,12 @@
   + router.js
 - IO  API
   + student.js
+
+
+
+- demo start：
+
+  + demo所在文件夹 ：node app.js
+  + address：http://127.0.0.1:3000
+
+  
